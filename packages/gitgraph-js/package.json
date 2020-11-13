@@ -1,28 +1,28 @@
 {
   "name": "@ravengitgraph/js",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "description": "Draw pretty git graphs in the browser",
   "author": "Nicolas Carlo <nicolascarlo.espeon@gmail.com>",
   "contributors": [
     {
-      "name": "Fabien Bernard",
-      "email": "fabien0102@gmail.com"
+      "name": "Arshid Dar",
+      "email": "ayrshid99@gmail.com"
     }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicoespeon/gitgraph.js.git"
+    "url": "git+https://github.com/ayrshid99/gitgraph.js"
   },
   "bugs": {
-    "url": "https://github.com/nicoespeon/gitgraph.js/issues"
+    "url": "https://github.com/ayrshid99/gitgraph.js/issues"
   },
   "keywords": [
     "git",
     "graph",
     "javascript"
   ],
-  "homepage": "https://github.com/nicoespeon/gitgraph.js#readme",
+  "homepage": "https://github.com/ayrshid99/gitgraph.js#readme",
   "publishConfig": {
     "access": "public"
   },

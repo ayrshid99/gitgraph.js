@@ -1299,6 +1299,11 @@
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/@emotion/weak-memoize/-/weak-memoize-0.2.2.tgz#63985d3d8b02530e0869962f4da09142ee8e200e"
 
+"@gitgraph/core@1.4.5":
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/@gitgraph/core/-/core-1.4.5.tgz#4c085413566a58f3b0d8cc22f27c785c354a9034"
+  integrity sha512-GFXJBfxPyHQOUmKtdlefozSAuQ/4xSg3QWsEJCK+y5YidQVxHWn4wLNUOPXoD7QDScvUOlJq8gOGTsVSpYQGoQ==
+
 "@lerna/add@3.13.1":
   version "3.13.1"
   resolved "https://registry.yarnpkg.com/@lerna/add/-/add-3.13.1.tgz#2cd7838857edb3b43ed73e3c21f69a20beb9b702"
