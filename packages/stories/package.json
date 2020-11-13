@@ -1,5 +1,5 @@
 {
-  "name": "@gitgraph/stories",
+  "name": "@ravengitgraph/stories",
   "version": "0.0.13",
   "private": true,
   "description": "Stories of @gitgraph rendering libraries for E2E tests",
@@ -17,9 +17,9 @@
     "build": "build-storybook"
   },
   "dependencies": {
-    "@gitgraph/core": "1.4.5",
-    "@gitgraph/js": "1.3.5",
-    "@gitgraph/react": "1.5.4"
+    "@ravengitgraph/core": "1.4.5",
+    "@ravengitgraph/js": "1.3.5",
+    "@ravengitgraph/react": "1.5.4"
   },
   "devDependencies": {
     "@babel/core": "7.4.3",
